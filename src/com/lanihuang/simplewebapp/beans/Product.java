@@ -6,7 +6,6 @@ public class Product {
   private String name;
   private float price;
   
-//Test
   public Product() {
 
   }
@@ -20,7 +19,7 @@ public class Product {
   public String getCode() {
     return code;
   }
-//Test 2
+
   public void setCode(String code) {
     this.code = code;
   }
