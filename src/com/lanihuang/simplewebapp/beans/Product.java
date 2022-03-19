@@ -20,7 +20,7 @@ public class Product {
   public String getCode() {
     return code;
   }
-
+//Test 2
   public void setCode(String code) {
     this.code = code;
   }
