@@ -9,7 +9,7 @@ public class Product {
   public Product() {
 
   }
-  //Comment
+  
 
   public Product(String code, String name, float price) {
     this.code = code;
